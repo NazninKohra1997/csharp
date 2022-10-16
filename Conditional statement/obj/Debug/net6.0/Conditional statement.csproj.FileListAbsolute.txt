@@ -1,0 +1,15 @@
+C:\Users\nkjho\Desktop\Conditional statement\bin\Debug\net6.0\Conditional statement.exe
+C:\Users\nkjho\Desktop\Conditional statement\bin\Debug\net6.0\Conditional statement.deps.json
+C:\Users\nkjho\Desktop\Conditional statement\bin\Debug\net6.0\Conditional statement.runtimeconfig.json
+C:\Users\nkjho\Desktop\Conditional statement\bin\Debug\net6.0\Conditional statement.dll
+C:\Users\nkjho\Desktop\Conditional statement\bin\Debug\net6.0\Conditional statement.pdb
+C:\Users\nkjho\Desktop\Conditional statement\obj\Debug\net6.0\Conditional statement.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\Conditional statement\obj\Debug\net6.0\Conditional statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\Conditional statement\obj\Debug\net6.0\Conditional statement.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\Conditional statement\obj\Debug\net6.0\Conditional statement.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\Conditional statement\obj\Debug\net6.0\Conditional statement.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\Conditional statement\obj\Debug\net6.0\Conditional statement.dll
+C:\Users\nkjho\Desktop\Conditional statement\obj\Debug\net6.0\refint\Conditional statement.dll
+C:\Users\nkjho\Desktop\Conditional statement\obj\Debug\net6.0\Conditional statement.pdb
+C:\Users\nkjho\Desktop\Conditional statement\obj\Debug\net6.0\Conditional statement.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\Conditional statement\obj\Debug\net6.0\ref\Conditional statement.dll
