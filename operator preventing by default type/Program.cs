@@ -7,5 +7,5 @@ Console.WriteLine(d);
 decimal dm=2.1456777882655544m; //m is added as suffix
 Console.WriteLine(dm);
 
-//int x=9.9999999991213334444l
-//Console.WriteLine(x); 
+long x=8888676424266777999L;
+Console.WriteLine(x); 

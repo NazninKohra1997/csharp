@@ -1,0 +1,15 @@
+C:\Users\nkjho\Desktop\csharp\operator preventing by default type\obj\Debug\net6.0\operator preventing by default type.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\csharp\operator preventing by default type\obj\Debug\net6.0\operator preventing by default type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\csharp\operator preventing by default type\obj\Debug\net6.0\operator preventing by default type.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\csharp\operator preventing by default type\obj\Debug\net6.0\operator preventing by default type.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\csharp\operator preventing by default type\obj\Debug\net6.0\operator preventing by default type.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\csharp\operator preventing by default type\bin\Debug\net6.0\operator preventing by default type.exe
+C:\Users\nkjho\Desktop\csharp\operator preventing by default type\bin\Debug\net6.0\operator preventing by default type.deps.json
+C:\Users\nkjho\Desktop\csharp\operator preventing by default type\bin\Debug\net6.0\operator preventing by default type.runtimeconfig.json
+C:\Users\nkjho\Desktop\csharp\operator preventing by default type\bin\Debug\net6.0\operator preventing by default type.dll
+C:\Users\nkjho\Desktop\csharp\operator preventing by default type\bin\Debug\net6.0\operator preventing by default type.pdb
+C:\Users\nkjho\Desktop\csharp\operator preventing by default type\obj\Debug\net6.0\operator preventing by default type.dll
+C:\Users\nkjho\Desktop\csharp\operator preventing by default type\obj\Debug\net6.0\refint\operator preventing by default type.dll
+C:\Users\nkjho\Desktop\csharp\operator preventing by default type\obj\Debug\net6.0\operator preventing by default type.pdb
+C:\Users\nkjho\Desktop\csharp\operator preventing by default type\obj\Debug\net6.0\operator preventing by default type.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\csharp\operator preventing by default type\obj\Debug\net6.0\ref\operator preventing by default type.dll
