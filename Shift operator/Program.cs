@@ -1,4 +1,4 @@
-﻿uint m= 0b_1001_0001_0000_0001;
+﻿uint m= 0b_1111_0001_1100_0001;
 Console.WriteLine(Convert.ToString(m,toBase:2));
 
 //Left shift
