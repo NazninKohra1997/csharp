@@ -1,0 +1,15 @@
+C:\Users\nkjho\Desktop\Constructor chaining\bin\Debug\net6.0\Constructor chaining.exe
+C:\Users\nkjho\Desktop\Constructor chaining\bin\Debug\net6.0\Constructor chaining.deps.json
+C:\Users\nkjho\Desktop\Constructor chaining\bin\Debug\net6.0\Constructor chaining.runtimeconfig.json
+C:\Users\nkjho\Desktop\Constructor chaining\bin\Debug\net6.0\Constructor chaining.dll
+C:\Users\nkjho\Desktop\Constructor chaining\bin\Debug\net6.0\Constructor chaining.pdb
+C:\Users\nkjho\Desktop\Constructor chaining\obj\Debug\net6.0\Constructor chaining.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\Constructor chaining\obj\Debug\net6.0\Constructor chaining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\Constructor chaining\obj\Debug\net6.0\Constructor chaining.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\Constructor chaining\obj\Debug\net6.0\Constructor chaining.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\Constructor chaining\obj\Debug\net6.0\Constructor chaining.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\Constructor chaining\obj\Debug\net6.0\Constructor chaining.dll
+C:\Users\nkjho\Desktop\Constructor chaining\obj\Debug\net6.0\refint\Constructor chaining.dll
+C:\Users\nkjho\Desktop\Constructor chaining\obj\Debug\net6.0\Constructor chaining.pdb
+C:\Users\nkjho\Desktop\Constructor chaining\obj\Debug\net6.0\Constructor chaining.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\Constructor chaining\obj\Debug\net6.0\ref\Constructor chaining.dll

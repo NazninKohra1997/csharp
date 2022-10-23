@@ -1,0 +1,15 @@
+C:\Users\nkjho\Desktop\Auto property\bin\Debug\net6.0\Auto property.exe
+C:\Users\nkjho\Desktop\Auto property\bin\Debug\net6.0\Auto property.deps.json
+C:\Users\nkjho\Desktop\Auto property\bin\Debug\net6.0\Auto property.runtimeconfig.json
+C:\Users\nkjho\Desktop\Auto property\bin\Debug\net6.0\Auto property.dll
+C:\Users\nkjho\Desktop\Auto property\bin\Debug\net6.0\Auto property.pdb
+C:\Users\nkjho\Desktop\Auto property\obj\Debug\net6.0\Auto property.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\Auto property\obj\Debug\net6.0\Auto property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\Auto property\obj\Debug\net6.0\Auto property.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\Auto property\obj\Debug\net6.0\Auto property.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\Auto property\obj\Debug\net6.0\Auto property.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\Auto property\obj\Debug\net6.0\Auto property.dll
+C:\Users\nkjho\Desktop\Auto property\obj\Debug\net6.0\refint\Auto property.dll
+C:\Users\nkjho\Desktop\Auto property\obj\Debug\net6.0\Auto property.pdb
+C:\Users\nkjho\Desktop\Auto property\obj\Debug\net6.0\Auto property.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\Auto property\obj\Debug\net6.0\ref\Auto property.dll

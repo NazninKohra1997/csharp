@@ -1,0 +1,15 @@
+C:\Users\nkjho\Desktop\Operator overloading\bin\Debug\net6.0\Operator overloading.exe
+C:\Users\nkjho\Desktop\Operator overloading\bin\Debug\net6.0\Operator overloading.deps.json
+C:\Users\nkjho\Desktop\Operator overloading\bin\Debug\net6.0\Operator overloading.runtimeconfig.json
+C:\Users\nkjho\Desktop\Operator overloading\bin\Debug\net6.0\Operator overloading.dll
+C:\Users\nkjho\Desktop\Operator overloading\bin\Debug\net6.0\Operator overloading.pdb
+C:\Users\nkjho\Desktop\Operator overloading\obj\Debug\net6.0\Operator overloading.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\Operator overloading\obj\Debug\net6.0\Operator overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\Operator overloading\obj\Debug\net6.0\Operator overloading.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\Operator overloading\obj\Debug\net6.0\Operator overloading.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\Operator overloading\obj\Debug\net6.0\Operator overloading.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\Operator overloading\obj\Debug\net6.0\Operator overloading.dll
+C:\Users\nkjho\Desktop\Operator overloading\obj\Debug\net6.0\refint\Operator overloading.dll
+C:\Users\nkjho\Desktop\Operator overloading\obj\Debug\net6.0\Operator overloading.pdb
+C:\Users\nkjho\Desktop\Operator overloading\obj\Debug\net6.0\Operator overloading.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\Operator overloading\obj\Debug\net6.0\ref\Operator overloading.dll

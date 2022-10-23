@@ -1,0 +1,15 @@
+C:\Users\nkjho\Desktop\Creating-object\bin\Debug\net6.0\Creating-object.exe
+C:\Users\nkjho\Desktop\Creating-object\bin\Debug\net6.0\Creating-object.deps.json
+C:\Users\nkjho\Desktop\Creating-object\bin\Debug\net6.0\Creating-object.runtimeconfig.json
+C:\Users\nkjho\Desktop\Creating-object\bin\Debug\net6.0\Creating-object.dll
+C:\Users\nkjho\Desktop\Creating-object\bin\Debug\net6.0\Creating-object.pdb
+C:\Users\nkjho\Desktop\Creating-object\obj\Debug\net6.0\Creating-object.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\Creating-object\obj\Debug\net6.0\Creating-object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\Creating-object\obj\Debug\net6.0\Creating-object.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\Creating-object\obj\Debug\net6.0\Creating-object.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\Creating-object\obj\Debug\net6.0\Creating-object.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\Creating-object\obj\Debug\net6.0\Creating-object.dll
+C:\Users\nkjho\Desktop\Creating-object\obj\Debug\net6.0\refint\Creating-object.dll
+C:\Users\nkjho\Desktop\Creating-object\obj\Debug\net6.0\Creating-object.pdb
+C:\Users\nkjho\Desktop\Creating-object\obj\Debug\net6.0\Creating-object.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\Creating-object\obj\Debug\net6.0\ref\Creating-object.dll
