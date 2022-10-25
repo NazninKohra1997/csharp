@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nkjho\\Desktop\\Destructor(Finalizer)\\Destructor(Finalizer).csproj": {}
+    "C:\\Users\\nkjho\\Desktop\\csharp\\Destructor(Finalizer)\\Destructor(Finalizer).csproj": {}
   },
   "projects": {
-    "C:\\Users\\nkjho\\Desktop\\Destructor(Finalizer)\\Destructor(Finalizer).csproj": {
+    "C:\\Users\\nkjho\\Desktop\\csharp\\Destructor(Finalizer)\\Destructor(Finalizer).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nkjho\\Desktop\\Destructor(Finalizer)\\Destructor(Finalizer).csproj",
+        "projectUniqueName": "C:\\Users\\nkjho\\Desktop\\csharp\\Destructor(Finalizer)\\Destructor(Finalizer).csproj",
         "projectName": "Destructor(Finalizer)",
-        "projectPath": "C:\\Users\\nkjho\\Desktop\\Destructor(Finalizer)\\Destructor(Finalizer).csproj",
+        "projectPath": "C:\\Users\\nkjho\\Desktop\\csharp\\Destructor(Finalizer)\\Destructor(Finalizer).csproj",
         "packagesPath": "C:\\Users\\nkjho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nkjho\\Desktop\\Destructor(Finalizer)\\obj\\",
+        "outputPath": "C:\\Users\\nkjho\\Desktop\\csharp\\Destructor(Finalizer)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nkjho\\AppData\\Roaming\\NuGet\\NuGet.Config"

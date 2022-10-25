@@ -8,6 +8,11 @@ public class animal{
         this.color=color;
     }
 
+     ~animal(){
+        color=null;
+        numberOfcat=0;
+    }
+
     public string Animal{
         get{
             return color;
@@ -23,8 +28,4 @@ public class animal{
         }
     }
 
-    ~animal(){
-        color=null;
-        numberOfcat=0;
-    }
 }
