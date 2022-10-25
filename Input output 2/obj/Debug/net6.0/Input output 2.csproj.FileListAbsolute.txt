@@ -1,0 +1,15 @@
+C:\Users\nkjho\Desktop\Input output 2\bin\Debug\net6.0\Input output 2.exe
+C:\Users\nkjho\Desktop\Input output 2\bin\Debug\net6.0\Input output 2.deps.json
+C:\Users\nkjho\Desktop\Input output 2\bin\Debug\net6.0\Input output 2.runtimeconfig.json
+C:\Users\nkjho\Desktop\Input output 2\bin\Debug\net6.0\Input output 2.dll
+C:\Users\nkjho\Desktop\Input output 2\bin\Debug\net6.0\Input output 2.pdb
+C:\Users\nkjho\Desktop\Input output 2\obj\Debug\net6.0\Input output 2.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\Input output 2\obj\Debug\net6.0\Input output 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\Input output 2\obj\Debug\net6.0\Input output 2.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\Input output 2\obj\Debug\net6.0\Input output 2.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\Input output 2\obj\Debug\net6.0\Input output 2.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\Input output 2\obj\Debug\net6.0\Input output 2.dll
+C:\Users\nkjho\Desktop\Input output 2\obj\Debug\net6.0\refint\Input output 2.dll
+C:\Users\nkjho\Desktop\Input output 2\obj\Debug\net6.0\Input output 2.pdb
+C:\Users\nkjho\Desktop\Input output 2\obj\Debug\net6.0\Input output 2.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\Input output 2\obj\Debug\net6.0\ref\Input output 2.dll
