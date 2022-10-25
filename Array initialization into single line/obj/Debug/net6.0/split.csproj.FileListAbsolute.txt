@@ -1,0 +1,30 @@
+C:\Users\nkjho\Desktop\split\bin\Debug\net6.0\split.exe
+C:\Users\nkjho\Desktop\split\bin\Debug\net6.0\split.deps.json
+C:\Users\nkjho\Desktop\split\bin\Debug\net6.0\split.runtimeconfig.json
+C:\Users\nkjho\Desktop\split\bin\Debug\net6.0\split.dll
+C:\Users\nkjho\Desktop\split\bin\Debug\net6.0\split.pdb
+C:\Users\nkjho\Desktop\split\obj\Debug\net6.0\split.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\split\obj\Debug\net6.0\split.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\split\obj\Debug\net6.0\split.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\split\obj\Debug\net6.0\split.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\split\obj\Debug\net6.0\split.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\split\obj\Debug\net6.0\split.dll
+C:\Users\nkjho\Desktop\split\obj\Debug\net6.0\refint\split.dll
+C:\Users\nkjho\Desktop\split\obj\Debug\net6.0\split.pdb
+C:\Users\nkjho\Desktop\split\obj\Debug\net6.0\split.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\split\obj\Debug\net6.0\ref\split.dll
+C:\Users\nkjho\Desktop\Array initialization into single line\bin\Debug\net6.0\split.exe
+C:\Users\nkjho\Desktop\Array initialization into single line\bin\Debug\net6.0\split.deps.json
+C:\Users\nkjho\Desktop\Array initialization into single line\bin\Debug\net6.0\split.runtimeconfig.json
+C:\Users\nkjho\Desktop\Array initialization into single line\bin\Debug\net6.0\split.dll
+C:\Users\nkjho\Desktop\Array initialization into single line\bin\Debug\net6.0\split.pdb
+C:\Users\nkjho\Desktop\Array initialization into single line\obj\Debug\net6.0\split.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\Array initialization into single line\obj\Debug\net6.0\split.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\Array initialization into single line\obj\Debug\net6.0\split.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\Array initialization into single line\obj\Debug\net6.0\split.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\Array initialization into single line\obj\Debug\net6.0\split.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\Array initialization into single line\obj\Debug\net6.0\split.dll
+C:\Users\nkjho\Desktop\Array initialization into single line\obj\Debug\net6.0\refint\split.dll
+C:\Users\nkjho\Desktop\Array initialization into single line\obj\Debug\net6.0\split.pdb
+C:\Users\nkjho\Desktop\Array initialization into single line\obj\Debug\net6.0\split.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\Array initialization into single line\obj\Debug\net6.0\ref\split.dll
