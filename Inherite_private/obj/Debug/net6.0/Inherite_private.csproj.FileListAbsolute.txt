@@ -1,0 +1,15 @@
+C:\Users\nkjho\Desktop\Inherite_private\bin\Debug\net6.0\Inherite_private.exe
+C:\Users\nkjho\Desktop\Inherite_private\bin\Debug\net6.0\Inherite_private.deps.json
+C:\Users\nkjho\Desktop\Inherite_private\bin\Debug\net6.0\Inherite_private.runtimeconfig.json
+C:\Users\nkjho\Desktop\Inherite_private\bin\Debug\net6.0\Inherite_private.dll
+C:\Users\nkjho\Desktop\Inherite_private\bin\Debug\net6.0\Inherite_private.pdb
+C:\Users\nkjho\Desktop\Inherite_private\obj\Debug\net6.0\Inherite_private.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\Inherite_private\obj\Debug\net6.0\Inherite_private.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\Inherite_private\obj\Debug\net6.0\Inherite_private.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\Inherite_private\obj\Debug\net6.0\Inherite_private.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\Inherite_private\obj\Debug\net6.0\Inherite_private.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\Inherite_private\obj\Debug\net6.0\Inherite_private.dll
+C:\Users\nkjho\Desktop\Inherite_private\obj\Debug\net6.0\refint\Inherite_private.dll
+C:\Users\nkjho\Desktop\Inherite_private\obj\Debug\net6.0\Inherite_private.pdb
+C:\Users\nkjho\Desktop\Inherite_private\obj\Debug\net6.0\Inherite_private.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\Inherite_private\obj\Debug\net6.0\ref\Inherite_private.dll

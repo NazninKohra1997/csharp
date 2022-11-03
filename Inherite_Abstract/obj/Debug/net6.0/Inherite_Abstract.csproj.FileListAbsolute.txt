@@ -1,0 +1,15 @@
+C:\Users\nkjho\Desktop\Inherite_Abstract\obj\Debug\net6.0\Inherite_Abstract.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\Inherite_Abstract\obj\Debug\net6.0\Inherite_Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\Inherite_Abstract\obj\Debug\net6.0\Inherite_Abstract.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\Inherite_Abstract\obj\Debug\net6.0\Inherite_Abstract.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\Inherite_Abstract\obj\Debug\net6.0\Inherite_Abstract.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\Inherite_Abstract\bin\Debug\net6.0\Inherite_Abstract.exe
+C:\Users\nkjho\Desktop\Inherite_Abstract\bin\Debug\net6.0\Inherite_Abstract.deps.json
+C:\Users\nkjho\Desktop\Inherite_Abstract\bin\Debug\net6.0\Inherite_Abstract.runtimeconfig.json
+C:\Users\nkjho\Desktop\Inherite_Abstract\bin\Debug\net6.0\Inherite_Abstract.dll
+C:\Users\nkjho\Desktop\Inherite_Abstract\bin\Debug\net6.0\Inherite_Abstract.pdb
+C:\Users\nkjho\Desktop\Inherite_Abstract\obj\Debug\net6.0\Inherite_Abstract.dll
+C:\Users\nkjho\Desktop\Inherite_Abstract\obj\Debug\net6.0\refint\Inherite_Abstract.dll
+C:\Users\nkjho\Desktop\Inherite_Abstract\obj\Debug\net6.0\Inherite_Abstract.pdb
+C:\Users\nkjho\Desktop\Inherite_Abstract\obj\Debug\net6.0\Inherite_Abstract.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\Inherite_Abstract\obj\Debug\net6.0\ref\Inherite_Abstract.dll

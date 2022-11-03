@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Method_overriding_in_normal_class(virtual_keyword)/1.0.0": {
+        "runtime": {
+          "Method_overriding_in_normal_class(virtual_keyword).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Method_overriding_in_normal_class(virtual_keyword)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
