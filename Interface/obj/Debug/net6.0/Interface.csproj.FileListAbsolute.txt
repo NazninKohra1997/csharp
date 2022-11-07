@@ -1,0 +1,15 @@
+C:\Users\nkjho\Desktop\Interface\bin\Debug\net6.0\Interface.exe
+C:\Users\nkjho\Desktop\Interface\bin\Debug\net6.0\Interface.deps.json
+C:\Users\nkjho\Desktop\Interface\bin\Debug\net6.0\Interface.runtimeconfig.json
+C:\Users\nkjho\Desktop\Interface\bin\Debug\net6.0\Interface.dll
+C:\Users\nkjho\Desktop\Interface\bin\Debug\net6.0\Interface.pdb
+C:\Users\nkjho\Desktop\Interface\obj\Debug\net6.0\Interface.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\Interface\obj\Debug\net6.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\Interface\obj\Debug\net6.0\Interface.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\Interface\obj\Debug\net6.0\Interface.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\Interface\obj\Debug\net6.0\Interface.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\Interface\obj\Debug\net6.0\Interface.dll
+C:\Users\nkjho\Desktop\Interface\obj\Debug\net6.0\refint\Interface.dll
+C:\Users\nkjho\Desktop\Interface\obj\Debug\net6.0\Interface.pdb
+C:\Users\nkjho\Desktop\Interface\obj\Debug\net6.0\Interface.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\Interface\obj\Debug\net6.0\ref\Interface.dll

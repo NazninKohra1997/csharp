@@ -1,0 +1,15 @@
+C:\Users\nkjho\Desktop\Static_method\bin\Debug\net6.0\Static_method.exe
+C:\Users\nkjho\Desktop\Static_method\bin\Debug\net6.0\Static_method.deps.json
+C:\Users\nkjho\Desktop\Static_method\bin\Debug\net6.0\Static_method.runtimeconfig.json
+C:\Users\nkjho\Desktop\Static_method\bin\Debug\net6.0\Static_method.dll
+C:\Users\nkjho\Desktop\Static_method\bin\Debug\net6.0\Static_method.pdb
+C:\Users\nkjho\Desktop\Static_method\obj\Debug\net6.0\Static_method.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\Static_method\obj\Debug\net6.0\Static_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\Static_method\obj\Debug\net6.0\Static_method.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\Static_method\obj\Debug\net6.0\Static_method.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\Static_method\obj\Debug\net6.0\Static_method.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\Static_method\obj\Debug\net6.0\Static_method.dll
+C:\Users\nkjho\Desktop\Static_method\obj\Debug\net6.0\refint\Static_method.dll
+C:\Users\nkjho\Desktop\Static_method\obj\Debug\net6.0\Static_method.pdb
+C:\Users\nkjho\Desktop\Static_method\obj\Debug\net6.0\Static_method.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\Static_method\obj\Debug\net6.0\ref\Static_method.dll

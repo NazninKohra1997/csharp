@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nkjho\\Desktop\\all_about_Csharp\\csharp\\readonly,constant_keyword\\readonly,constant_keyword.csproj": {}
+    "C:\\Users\\nkjho\\Desktop\\Interface\\Interface.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nkjho\\Desktop\\all_about_Csharp\\csharp\\readonly,constant_keyword\\readonly,constant_keyword.csproj": {
+    "C:\\Users\\nkjho\\Desktop\\Interface\\Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nkjho\\Desktop\\all_about_Csharp\\csharp\\readonly,constant_keyword\\readonly,constant_keyword.csproj",
-        "projectName": "readonly,constant_keyword",
-        "projectPath": "C:\\Users\\nkjho\\Desktop\\all_about_Csharp\\csharp\\readonly,constant_keyword\\readonly,constant_keyword.csproj",
+        "projectUniqueName": "C:\\Users\\nkjho\\Desktop\\Interface\\Interface.csproj",
+        "projectName": "Interface",
+        "projectPath": "C:\\Users\\nkjho\\Desktop\\Interface\\Interface.csproj",
         "packagesPath": "C:\\Users\\nkjho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nkjho\\Desktop\\all_about_Csharp\\csharp\\readonly,constant_keyword\\obj\\",
+        "outputPath": "C:\\Users\\nkjho\\Desktop\\Interface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nkjho\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -3,7 +3,7 @@ public class program{
         member mem=new member(37);
 
         Console.WriteLine(mem.Rol);
-      //  Console.WriteLine(mem.ID);
+       Console.WriteLine(member.ID);
 
     }
 }
