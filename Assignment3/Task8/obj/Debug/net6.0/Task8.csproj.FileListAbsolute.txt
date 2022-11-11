@@ -1,0 +1,15 @@
+C:\Users\nkjho\Desktop\devskill\Naznin-Kohra-csharp-b12-\Assignment3\Task8\bin\Debug\net6.0\Task8.exe
+C:\Users\nkjho\Desktop\devskill\Naznin-Kohra-csharp-b12-\Assignment3\Task8\bin\Debug\net6.0\Task8.deps.json
+C:\Users\nkjho\Desktop\devskill\Naznin-Kohra-csharp-b12-\Assignment3\Task8\bin\Debug\net6.0\Task8.runtimeconfig.json
+C:\Users\nkjho\Desktop\devskill\Naznin-Kohra-csharp-b12-\Assignment3\Task8\bin\Debug\net6.0\Task8.dll
+C:\Users\nkjho\Desktop\devskill\Naznin-Kohra-csharp-b12-\Assignment3\Task8\bin\Debug\net6.0\Task8.pdb
+C:\Users\nkjho\Desktop\devskill\Naznin-Kohra-csharp-b12-\Assignment3\Task8\obj\Debug\net6.0\Task8.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\devskill\Naznin-Kohra-csharp-b12-\Assignment3\Task8\obj\Debug\net6.0\Task8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\devskill\Naznin-Kohra-csharp-b12-\Assignment3\Task8\obj\Debug\net6.0\Task8.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\devskill\Naznin-Kohra-csharp-b12-\Assignment3\Task8\obj\Debug\net6.0\Task8.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\devskill\Naznin-Kohra-csharp-b12-\Assignment3\Task8\obj\Debug\net6.0\Task8.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\devskill\Naznin-Kohra-csharp-b12-\Assignment3\Task8\obj\Debug\net6.0\Task8.dll
+C:\Users\nkjho\Desktop\devskill\Naznin-Kohra-csharp-b12-\Assignment3\Task8\obj\Debug\net6.0\refint\Task8.dll
+C:\Users\nkjho\Desktop\devskill\Naznin-Kohra-csharp-b12-\Assignment3\Task8\obj\Debug\net6.0\Task8.pdb
+C:\Users\nkjho\Desktop\devskill\Naznin-Kohra-csharp-b12-\Assignment3\Task8\obj\Debug\net6.0\Task8.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\devskill\Naznin-Kohra-csharp-b12-\Assignment3\Task8\obj\Debug\net6.0\ref\Task8.dll
