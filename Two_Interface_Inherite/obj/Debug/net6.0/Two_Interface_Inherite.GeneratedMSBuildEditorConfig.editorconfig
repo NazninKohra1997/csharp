@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Method_overriding_in_normal_class_virtual_keyword_
-build_property.ProjectDir = c:\Users\nkjho\Desktop\all_about_Csharp\csharp\Method_overriding_in_normal_class(virtual_keyword)\
+build_property.RootNamespace = Two_Interface_Inherite
+build_property.ProjectDir = C:\Users\nkjho\Desktop\Two_Interface_Inherite\

@@ -1,0 +1,15 @@
+C:\Users\nkjho\Desktop\Two_Interface_Inherite\bin\Debug\net6.0\Two_Interface_Inherite.exe
+C:\Users\nkjho\Desktop\Two_Interface_Inherite\bin\Debug\net6.0\Two_Interface_Inherite.deps.json
+C:\Users\nkjho\Desktop\Two_Interface_Inherite\bin\Debug\net6.0\Two_Interface_Inherite.runtimeconfig.json
+C:\Users\nkjho\Desktop\Two_Interface_Inherite\bin\Debug\net6.0\Two_Interface_Inherite.dll
+C:\Users\nkjho\Desktop\Two_Interface_Inherite\bin\Debug\net6.0\Two_Interface_Inherite.pdb
+C:\Users\nkjho\Desktop\Two_Interface_Inherite\obj\Debug\net6.0\Two_Interface_Inherite.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\Two_Interface_Inherite\obj\Debug\net6.0\Two_Interface_Inherite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\Two_Interface_Inherite\obj\Debug\net6.0\Two_Interface_Inherite.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\Two_Interface_Inherite\obj\Debug\net6.0\Two_Interface_Inherite.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\Two_Interface_Inherite\obj\Debug\net6.0\Two_Interface_Inherite.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\Two_Interface_Inherite\obj\Debug\net6.0\Two_Interface_Inherite.dll
+C:\Users\nkjho\Desktop\Two_Interface_Inherite\obj\Debug\net6.0\refint\Two_Interface_Inherite.dll
+C:\Users\nkjho\Desktop\Two_Interface_Inherite\obj\Debug\net6.0\Two_Interface_Inherite.pdb
+C:\Users\nkjho\Desktop\Two_Interface_Inherite\obj\Debug\net6.0\Two_Interface_Inherite.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\Two_Interface_Inherite\obj\Debug\net6.0\ref\Two_Interface_Inherite.dll
