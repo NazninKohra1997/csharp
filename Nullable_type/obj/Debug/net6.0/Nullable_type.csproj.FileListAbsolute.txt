@@ -1,0 +1,15 @@
+C:\Users\nkjho\Desktop\Nullable_type\bin\Debug\net6.0\Nullable_type.exe
+C:\Users\nkjho\Desktop\Nullable_type\bin\Debug\net6.0\Nullable_type.deps.json
+C:\Users\nkjho\Desktop\Nullable_type\bin\Debug\net6.0\Nullable_type.runtimeconfig.json
+C:\Users\nkjho\Desktop\Nullable_type\bin\Debug\net6.0\Nullable_type.dll
+C:\Users\nkjho\Desktop\Nullable_type\bin\Debug\net6.0\Nullable_type.pdb
+C:\Users\nkjho\Desktop\Nullable_type\obj\Debug\net6.0\Nullable_type.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\Nullable_type\obj\Debug\net6.0\Nullable_type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\Nullable_type\obj\Debug\net6.0\Nullable_type.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\Nullable_type\obj\Debug\net6.0\Nullable_type.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\Nullable_type\obj\Debug\net6.0\Nullable_type.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\Nullable_type\obj\Debug\net6.0\Nullable_type.dll
+C:\Users\nkjho\Desktop\Nullable_type\obj\Debug\net6.0\refint\Nullable_type.dll
+C:\Users\nkjho\Desktop\Nullable_type\obj\Debug\net6.0\Nullable_type.pdb
+C:\Users\nkjho\Desktop\Nullable_type\obj\Debug\net6.0\Nullable_type.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\Nullable_type\obj\Debug\net6.0\ref\Nullable_type.dll
