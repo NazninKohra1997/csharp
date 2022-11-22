@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = split
-build_property.ProjectDir = c:\Users\nkjho\Desktop\all_about_Csharp\csharp\Array initialization into single line\
+build_property.RootNamespace = Multi_dimensional_array
+build_property.ProjectDir = c:\Users\nkjho\Desktop\all_about_Csharp\csharp\Multi dimensional array\

@@ -1,0 +1,15 @@
+C:\Users\nkjho\Desktop\2D_jagged_array_1\bin\Debug\net6.0\2D_jagged_array_1.exe
+C:\Users\nkjho\Desktop\2D_jagged_array_1\bin\Debug\net6.0\2D_jagged_array_1.deps.json
+C:\Users\nkjho\Desktop\2D_jagged_array_1\bin\Debug\net6.0\2D_jagged_array_1.runtimeconfig.json
+C:\Users\nkjho\Desktop\2D_jagged_array_1\bin\Debug\net6.0\2D_jagged_array_1.dll
+C:\Users\nkjho\Desktop\2D_jagged_array_1\bin\Debug\net6.0\2D_jagged_array_1.pdb
+C:\Users\nkjho\Desktop\2D_jagged_array_1\obj\Debug\net6.0\2D_jagged_array_1.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\2D_jagged_array_1\obj\Debug\net6.0\2D_jagged_array_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\2D_jagged_array_1\obj\Debug\net6.0\2D_jagged_array_1.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\2D_jagged_array_1\obj\Debug\net6.0\2D_jagged_array_1.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\2D_jagged_array_1\obj\Debug\net6.0\2D_jagged_array_1.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\2D_jagged_array_1\obj\Debug\net6.0\2D_jagged_array_1.dll
+C:\Users\nkjho\Desktop\2D_jagged_array_1\obj\Debug\net6.0\refint\2D_jagged_array_1.dll
+C:\Users\nkjho\Desktop\2D_jagged_array_1\obj\Debug\net6.0\2D_jagged_array_1.pdb
+C:\Users\nkjho\Desktop\2D_jagged_array_1\obj\Debug\net6.0\2D_jagged_array_1.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\2D_jagged_array_1\obj\Debug\net6.0\ref\2D_jagged_array_1.dll

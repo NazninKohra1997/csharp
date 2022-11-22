@@ -1,0 +1,15 @@
+C:\Users\nkjho\Desktop\Loop_1\bin\Debug\net6.0\Loop_1.exe
+C:\Users\nkjho\Desktop\Loop_1\bin\Debug\net6.0\Loop_1.deps.json
+C:\Users\nkjho\Desktop\Loop_1\bin\Debug\net6.0\Loop_1.runtimeconfig.json
+C:\Users\nkjho\Desktop\Loop_1\bin\Debug\net6.0\Loop_1.dll
+C:\Users\nkjho\Desktop\Loop_1\bin\Debug\net6.0\Loop_1.pdb
+C:\Users\nkjho\Desktop\Loop_1\obj\Debug\net6.0\Loop_1.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\Loop_1\obj\Debug\net6.0\Loop_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\Loop_1\obj\Debug\net6.0\Loop_1.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\Loop_1\obj\Debug\net6.0\Loop_1.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\Loop_1\obj\Debug\net6.0\Loop_1.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\Loop_1\obj\Debug\net6.0\Loop_1.dll
+C:\Users\nkjho\Desktop\Loop_1\obj\Debug\net6.0\refint\Loop_1.dll
+C:\Users\nkjho\Desktop\Loop_1\obj\Debug\net6.0\Loop_1.pdb
+C:\Users\nkjho\Desktop\Loop_1\obj\Debug\net6.0\Loop_1.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\Loop_1\obj\Debug\net6.0\ref\Loop_1.dll
