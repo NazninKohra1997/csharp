@@ -1,0 +1,15 @@
+C:\Users\nkjho\Desktop\prime_number_with_method\bin\Debug\net6.0\prime_number_with_method.exe
+C:\Users\nkjho\Desktop\prime_number_with_method\bin\Debug\net6.0\prime_number_with_method.deps.json
+C:\Users\nkjho\Desktop\prime_number_with_method\bin\Debug\net6.0\prime_number_with_method.runtimeconfig.json
+C:\Users\nkjho\Desktop\prime_number_with_method\bin\Debug\net6.0\prime_number_with_method.dll
+C:\Users\nkjho\Desktop\prime_number_with_method\bin\Debug\net6.0\prime_number_with_method.pdb
+C:\Users\nkjho\Desktop\prime_number_with_method\obj\Debug\net6.0\prime_number_with_method.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\prime_number_with_method\obj\Debug\net6.0\prime_number_with_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\prime_number_with_method\obj\Debug\net6.0\prime_number_with_method.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\prime_number_with_method\obj\Debug\net6.0\prime_number_with_method.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\prime_number_with_method\obj\Debug\net6.0\prime_number_with_method.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\prime_number_with_method\obj\Debug\net6.0\prime_number_with_method.dll
+C:\Users\nkjho\Desktop\prime_number_with_method\obj\Debug\net6.0\refint\prime_number_with_method.dll
+C:\Users\nkjho\Desktop\prime_number_with_method\obj\Debug\net6.0\prime_number_with_method.pdb
+C:\Users\nkjho\Desktop\prime_number_with_method\obj\Debug\net6.0\prime_number_with_method.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\prime_number_with_method\obj\Debug\net6.0\ref\prime_number_with_method.dll

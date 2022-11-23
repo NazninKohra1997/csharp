@@ -1,0 +1,15 @@
+C:\Users\nkjho\Desktop\class2\bin\Debug\net6.0\class2.exe
+C:\Users\nkjho\Desktop\class2\bin\Debug\net6.0\class2.deps.json
+C:\Users\nkjho\Desktop\class2\bin\Debug\net6.0\class2.runtimeconfig.json
+C:\Users\nkjho\Desktop\class2\bin\Debug\net6.0\class2.dll
+C:\Users\nkjho\Desktop\class2\bin\Debug\net6.0\class2.pdb
+C:\Users\nkjho\Desktop\class2\obj\Debug\net6.0\class2.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\class2\obj\Debug\net6.0\class2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\class2\obj\Debug\net6.0\class2.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\class2\obj\Debug\net6.0\class2.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\class2\obj\Debug\net6.0\class2.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\class2\obj\Debug\net6.0\class2.dll
+C:\Users\nkjho\Desktop\class2\obj\Debug\net6.0\refint\class2.dll
+C:\Users\nkjho\Desktop\class2\obj\Debug\net6.0\class2.pdb
+C:\Users\nkjho\Desktop\class2\obj\Debug\net6.0\class2.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\class2\obj\Debug\net6.0\ref\class2.dll
