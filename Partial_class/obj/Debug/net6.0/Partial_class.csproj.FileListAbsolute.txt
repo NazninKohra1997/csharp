@@ -1,0 +1,15 @@
+C:\Users\nkjho\Desktop\Partial_class\bin\Debug\net6.0\Partial_class.exe
+C:\Users\nkjho\Desktop\Partial_class\bin\Debug\net6.0\Partial_class.deps.json
+C:\Users\nkjho\Desktop\Partial_class\bin\Debug\net6.0\Partial_class.runtimeconfig.json
+C:\Users\nkjho\Desktop\Partial_class\bin\Debug\net6.0\Partial_class.dll
+C:\Users\nkjho\Desktop\Partial_class\bin\Debug\net6.0\Partial_class.pdb
+C:\Users\nkjho\Desktop\Partial_class\obj\Debug\net6.0\Partial_class.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\Partial_class\obj\Debug\net6.0\Partial_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\Partial_class\obj\Debug\net6.0\Partial_class.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\Partial_class\obj\Debug\net6.0\Partial_class.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\Partial_class\obj\Debug\net6.0\Partial_class.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\Partial_class\obj\Debug\net6.0\Partial_class.dll
+C:\Users\nkjho\Desktop\Partial_class\obj\Debug\net6.0\refint\Partial_class.dll
+C:\Users\nkjho\Desktop\Partial_class\obj\Debug\net6.0\Partial_class.pdb
+C:\Users\nkjho\Desktop\Partial_class\obj\Debug\net6.0\Partial_class.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\Partial_class\obj\Debug\net6.0\ref\Partial_class.dll

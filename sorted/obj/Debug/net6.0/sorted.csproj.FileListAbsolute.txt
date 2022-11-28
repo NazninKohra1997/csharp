@@ -1,0 +1,15 @@
+C:\Users\nkjho\Desktop\sorted\bin\Debug\net6.0\sorted.exe
+C:\Users\nkjho\Desktop\sorted\bin\Debug\net6.0\sorted.deps.json
+C:\Users\nkjho\Desktop\sorted\bin\Debug\net6.0\sorted.runtimeconfig.json
+C:\Users\nkjho\Desktop\sorted\bin\Debug\net6.0\sorted.dll
+C:\Users\nkjho\Desktop\sorted\bin\Debug\net6.0\sorted.pdb
+C:\Users\nkjho\Desktop\sorted\obj\Debug\net6.0\sorted.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\sorted\obj\Debug\net6.0\sorted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\sorted\obj\Debug\net6.0\sorted.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\sorted\obj\Debug\net6.0\sorted.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\sorted\obj\Debug\net6.0\sorted.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\sorted\obj\Debug\net6.0\sorted.dll
+C:\Users\nkjho\Desktop\sorted\obj\Debug\net6.0\refint\sorted.dll
+C:\Users\nkjho\Desktop\sorted\obj\Debug\net6.0\sorted.pdb
+C:\Users\nkjho\Desktop\sorted\obj\Debug\net6.0\sorted.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\sorted\obj\Debug\net6.0\ref\sorted.dll

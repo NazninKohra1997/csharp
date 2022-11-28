@@ -1,0 +1,15 @@
+C:\Users\nkjho\Desktop\class30\bin\Debug\net6.0\class30.exe
+C:\Users\nkjho\Desktop\class30\bin\Debug\net6.0\class30.deps.json
+C:\Users\nkjho\Desktop\class30\bin\Debug\net6.0\class30.runtimeconfig.json
+C:\Users\nkjho\Desktop\class30\bin\Debug\net6.0\class30.dll
+C:\Users\nkjho\Desktop\class30\bin\Debug\net6.0\class30.pdb
+C:\Users\nkjho\Desktop\class30\obj\Debug\net6.0\class30.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\class30\obj\Debug\net6.0\class30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\class30\obj\Debug\net6.0\class30.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\class30\obj\Debug\net6.0\class30.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\class30\obj\Debug\net6.0\class30.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\class30\obj\Debug\net6.0\class30.dll
+C:\Users\nkjho\Desktop\class30\obj\Debug\net6.0\refint\class30.dll
+C:\Users\nkjho\Desktop\class30\obj\Debug\net6.0\class30.pdb
+C:\Users\nkjho\Desktop\class30\obj\Debug\net6.0\class30.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\class30\obj\Debug\net6.0\ref\class30.dll

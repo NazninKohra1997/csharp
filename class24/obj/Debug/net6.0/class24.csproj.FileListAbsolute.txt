@@ -1,0 +1,15 @@
+C:\Users\nkjho\Desktop\class24\bin\Debug\net6.0\class24.exe
+C:\Users\nkjho\Desktop\class24\bin\Debug\net6.0\class24.deps.json
+C:\Users\nkjho\Desktop\class24\bin\Debug\net6.0\class24.runtimeconfig.json
+C:\Users\nkjho\Desktop\class24\bin\Debug\net6.0\class24.dll
+C:\Users\nkjho\Desktop\class24\bin\Debug\net6.0\class24.pdb
+C:\Users\nkjho\Desktop\class24\obj\Debug\net6.0\class24.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\class24\obj\Debug\net6.0\class24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\class24\obj\Debug\net6.0\class24.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\class24\obj\Debug\net6.0\class24.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\class24\obj\Debug\net6.0\class24.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\class24\obj\Debug\net6.0\class24.dll
+C:\Users\nkjho\Desktop\class24\obj\Debug\net6.0\refint\class24.dll
+C:\Users\nkjho\Desktop\class24\obj\Debug\net6.0\class24.pdb
+C:\Users\nkjho\Desktop\class24\obj\Debug\net6.0\class24.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\class24\obj\Debug\net6.0\ref\class24.dll

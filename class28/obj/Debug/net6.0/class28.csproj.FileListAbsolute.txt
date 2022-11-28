@@ -1,0 +1,15 @@
+C:\Users\nkjho\Desktop\class28\bin\Debug\net6.0\class28.exe
+C:\Users\nkjho\Desktop\class28\bin\Debug\net6.0\class28.deps.json
+C:\Users\nkjho\Desktop\class28\bin\Debug\net6.0\class28.runtimeconfig.json
+C:\Users\nkjho\Desktop\class28\bin\Debug\net6.0\class28.dll
+C:\Users\nkjho\Desktop\class28\bin\Debug\net6.0\class28.pdb
+C:\Users\nkjho\Desktop\class28\obj\Debug\net6.0\class28.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\class28\obj\Debug\net6.0\class28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\class28\obj\Debug\net6.0\class28.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\class28\obj\Debug\net6.0\class28.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\class28\obj\Debug\net6.0\class28.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\class28\obj\Debug\net6.0\class28.dll
+C:\Users\nkjho\Desktop\class28\obj\Debug\net6.0\refint\class28.dll
+C:\Users\nkjho\Desktop\class28\obj\Debug\net6.0\class28.pdb
+C:\Users\nkjho\Desktop\class28\obj\Debug\net6.0\class28.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\class28\obj\Debug\net6.0\ref\class28.dll

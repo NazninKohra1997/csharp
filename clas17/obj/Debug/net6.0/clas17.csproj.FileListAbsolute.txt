@@ -1,0 +1,15 @@
+C:\Users\nkjho\Desktop\clas17\bin\Debug\net6.0\clas17.exe
+C:\Users\nkjho\Desktop\clas17\bin\Debug\net6.0\clas17.deps.json
+C:\Users\nkjho\Desktop\clas17\bin\Debug\net6.0\clas17.runtimeconfig.json
+C:\Users\nkjho\Desktop\clas17\bin\Debug\net6.0\clas17.dll
+C:\Users\nkjho\Desktop\clas17\bin\Debug\net6.0\clas17.pdb
+C:\Users\nkjho\Desktop\clas17\obj\Debug\net6.0\clas17.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\clas17\obj\Debug\net6.0\clas17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\clas17\obj\Debug\net6.0\clas17.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\clas17\obj\Debug\net6.0\clas17.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\clas17\obj\Debug\net6.0\clas17.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\clas17\obj\Debug\net6.0\clas17.dll
+C:\Users\nkjho\Desktop\clas17\obj\Debug\net6.0\refint\clas17.dll
+C:\Users\nkjho\Desktop\clas17\obj\Debug\net6.0\clas17.pdb
+C:\Users\nkjho\Desktop\clas17\obj\Debug\net6.0\clas17.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\clas17\obj\Debug\net6.0\ref\clas17.dll

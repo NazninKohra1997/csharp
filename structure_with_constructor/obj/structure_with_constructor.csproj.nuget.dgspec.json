@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nkjho\\Desktop\\structure_with_constructor\\structure_with_constructor.csproj": {}
+    "C:\\Users\\nkjho\\Desktop\\all_about_Csharp\\csharp\\structure_with_constructor\\structure_with_constructor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nkjho\\Desktop\\structure_with_constructor\\structure_with_constructor.csproj": {
+    "C:\\Users\\nkjho\\Desktop\\all_about_Csharp\\csharp\\structure_with_constructor\\structure_with_constructor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nkjho\\Desktop\\structure_with_constructor\\structure_with_constructor.csproj",
+        "projectUniqueName": "C:\\Users\\nkjho\\Desktop\\all_about_Csharp\\csharp\\structure_with_constructor\\structure_with_constructor.csproj",
         "projectName": "structure_with_constructor",
-        "projectPath": "C:\\Users\\nkjho\\Desktop\\structure_with_constructor\\structure_with_constructor.csproj",
+        "projectPath": "C:\\Users\\nkjho\\Desktop\\all_about_Csharp\\csharp\\structure_with_constructor\\structure_with_constructor.csproj",
         "packagesPath": "C:\\Users\\nkjho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nkjho\\Desktop\\structure_with_constructor\\obj\\",
+        "outputPath": "C:\\Users\\nkjho\\Desktop\\all_about_Csharp\\csharp\\structure_with_constructor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nkjho\\AppData\\Roaming\\NuGet\\NuGet.Config"
