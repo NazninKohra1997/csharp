@@ -1,0 +1,15 @@
+C:\Users\nkjho\Desktop\IClonable\bin\Debug\net6.0\IClonable.exe
+C:\Users\nkjho\Desktop\IClonable\bin\Debug\net6.0\IClonable.deps.json
+C:\Users\nkjho\Desktop\IClonable\bin\Debug\net6.0\IClonable.runtimeconfig.json
+C:\Users\nkjho\Desktop\IClonable\bin\Debug\net6.0\IClonable.dll
+C:\Users\nkjho\Desktop\IClonable\bin\Debug\net6.0\IClonable.pdb
+C:\Users\nkjho\Desktop\IClonable\obj\Debug\net6.0\IClonable.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\IClonable\obj\Debug\net6.0\IClonable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\IClonable\obj\Debug\net6.0\IClonable.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\IClonable\obj\Debug\net6.0\IClonable.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\IClonable\obj\Debug\net6.0\IClonable.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\IClonable\obj\Debug\net6.0\IClonable.dll
+C:\Users\nkjho\Desktop\IClonable\obj\Debug\net6.0\refint\IClonable.dll
+C:\Users\nkjho\Desktop\IClonable\obj\Debug\net6.0\IClonable.pdb
+C:\Users\nkjho\Desktop\IClonable\obj\Debug\net6.0\IClonable.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\IClonable\obj\Debug\net6.0\ref\IClonable.dll

@@ -1,0 +1,15 @@
+C:\Users\nkjho\Desktop\Linked List\bin\Debug\net6.0\Linked List.exe
+C:\Users\nkjho\Desktop\Linked List\bin\Debug\net6.0\Linked List.deps.json
+C:\Users\nkjho\Desktop\Linked List\bin\Debug\net6.0\Linked List.runtimeconfig.json
+C:\Users\nkjho\Desktop\Linked List\bin\Debug\net6.0\Linked List.dll
+C:\Users\nkjho\Desktop\Linked List\bin\Debug\net6.0\Linked List.pdb
+C:\Users\nkjho\Desktop\Linked List\obj\Debug\net6.0\Linked List.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\Linked List\obj\Debug\net6.0\Linked List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\Linked List\obj\Debug\net6.0\Linked List.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\Linked List\obj\Debug\net6.0\Linked List.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\Linked List\obj\Debug\net6.0\Linked List.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\Linked List\obj\Debug\net6.0\Linked List.dll
+C:\Users\nkjho\Desktop\Linked List\obj\Debug\net6.0\refint\Linked List.dll
+C:\Users\nkjho\Desktop\Linked List\obj\Debug\net6.0\Linked List.pdb
+C:\Users\nkjho\Desktop\Linked List\obj\Debug\net6.0\Linked List.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\Linked List\obj\Debug\net6.0\ref\Linked List.dll

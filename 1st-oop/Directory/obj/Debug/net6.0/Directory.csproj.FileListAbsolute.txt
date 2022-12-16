@@ -1,0 +1,15 @@
+C:\Users\nkjho\Desktop\Directory\bin\Debug\net6.0\Directory.exe
+C:\Users\nkjho\Desktop\Directory\bin\Debug\net6.0\Directory.deps.json
+C:\Users\nkjho\Desktop\Directory\bin\Debug\net6.0\Directory.runtimeconfig.json
+C:\Users\nkjho\Desktop\Directory\bin\Debug\net6.0\Directory.dll
+C:\Users\nkjho\Desktop\Directory\bin\Debug\net6.0\Directory.pdb
+C:\Users\nkjho\Desktop\Directory\obj\Debug\net6.0\Directory.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\Directory\obj\Debug\net6.0\Directory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\Directory\obj\Debug\net6.0\Directory.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\Directory\obj\Debug\net6.0\Directory.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\Directory\obj\Debug\net6.0\Directory.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\Directory\obj\Debug\net6.0\Directory.dll
+C:\Users\nkjho\Desktop\Directory\obj\Debug\net6.0\refint\Directory.dll
+C:\Users\nkjho\Desktop\Directory\obj\Debug\net6.0\Directory.pdb
+C:\Users\nkjho\Desktop\Directory\obj\Debug\net6.0\Directory.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\Directory\obj\Debug\net6.0\ref\Directory.dll

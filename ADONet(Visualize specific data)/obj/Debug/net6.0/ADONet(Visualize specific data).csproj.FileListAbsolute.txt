@@ -1,0 +1,22 @@
+C:\Users\nkjho\Desktop\ADONet(Visualize specific data)\bin\Debug\net6.0\ADONet(Visualize specific data).exe
+C:\Users\nkjho\Desktop\ADONet(Visualize specific data)\bin\Debug\net6.0\ADONet(Visualize specific data).deps.json
+C:\Users\nkjho\Desktop\ADONet(Visualize specific data)\bin\Debug\net6.0\ADONet(Visualize specific data).runtimeconfig.json
+C:\Users\nkjho\Desktop\ADONet(Visualize specific data)\bin\Debug\net6.0\ADONet(Visualize specific data).dll
+C:\Users\nkjho\Desktop\ADONet(Visualize specific data)\bin\Debug\net6.0\ADONet(Visualize specific data).pdb
+C:\Users\nkjho\Desktop\ADONet(Visualize specific data)\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\nkjho\Desktop\ADONet(Visualize specific data)\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\nkjho\Desktop\ADONet(Visualize specific data)\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\nkjho\Desktop\ADONet(Visualize specific data)\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\nkjho\Desktop\ADONet(Visualize specific data)\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nkjho\Desktop\ADONet(Visualize specific data)\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nkjho\Desktop\ADONet(Visualize specific data)\obj\Debug\net6.0\ADONet(Visualize specific data).csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\ADONet(Visualize specific data)\obj\Debug\net6.0\ADONet(Visualize specific data).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\ADONet(Visualize specific data)\obj\Debug\net6.0\ADONet(Visualize specific data).AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\ADONet(Visualize specific data)\obj\Debug\net6.0\ADONet(Visualize specific data).AssemblyInfo.cs
+C:\Users\nkjho\Desktop\ADONet(Visualize specific data)\obj\Debug\net6.0\ADONet(Visualize specific data).csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\ADONet(Visualize specific data)\obj\Debug\net6.0\ADONet(Visualize specific data).csproj.CopyComplete
+C:\Users\nkjho\Desktop\ADONet(Visualize specific data)\obj\Debug\net6.0\ADONet(Visualize specific data).dll
+C:\Users\nkjho\Desktop\ADONet(Visualize specific data)\obj\Debug\net6.0\refint\ADONet(Visualize specific data).dll
+C:\Users\nkjho\Desktop\ADONet(Visualize specific data)\obj\Debug\net6.0\ADONet(Visualize specific data).pdb
+C:\Users\nkjho\Desktop\ADONet(Visualize specific data)\obj\Debug\net6.0\ADONet(Visualize specific data).genruntimeconfig.cache
+C:\Users\nkjho\Desktop\ADONet(Visualize specific data)\obj\Debug\net6.0\ref\ADONet(Visualize specific data).dll

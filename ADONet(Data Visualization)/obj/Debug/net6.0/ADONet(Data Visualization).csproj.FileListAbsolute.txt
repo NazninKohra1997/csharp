@@ -1,0 +1,22 @@
+C:\Users\nkjho\Desktop\ADONet(Data Visualization)\obj\Debug\net6.0\ADONet(Data Visualization).csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\ADONet(Data Visualization)\obj\Debug\net6.0\ADONet(Data Visualization).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\ADONet(Data Visualization)\obj\Debug\net6.0\ADONet(Data Visualization).AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\ADONet(Data Visualization)\obj\Debug\net6.0\ADONet(Data Visualization).AssemblyInfo.cs
+C:\Users\nkjho\Desktop\ADONet(Data Visualization)\obj\Debug\net6.0\ADONet(Data Visualization).csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\ADONet(Data Visualization)\bin\Debug\net6.0\ADONet(Data Visualization).exe
+C:\Users\nkjho\Desktop\ADONet(Data Visualization)\bin\Debug\net6.0\ADONet(Data Visualization).deps.json
+C:\Users\nkjho\Desktop\ADONet(Data Visualization)\bin\Debug\net6.0\ADONet(Data Visualization).runtimeconfig.json
+C:\Users\nkjho\Desktop\ADONet(Data Visualization)\bin\Debug\net6.0\ADONet(Data Visualization).dll
+C:\Users\nkjho\Desktop\ADONet(Data Visualization)\bin\Debug\net6.0\ADONet(Data Visualization).pdb
+C:\Users\nkjho\Desktop\ADONet(Data Visualization)\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\nkjho\Desktop\ADONet(Data Visualization)\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\nkjho\Desktop\ADONet(Data Visualization)\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\nkjho\Desktop\ADONet(Data Visualization)\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\nkjho\Desktop\ADONet(Data Visualization)\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nkjho\Desktop\ADONet(Data Visualization)\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nkjho\Desktop\ADONet(Data Visualization)\obj\Debug\net6.0\ADONet(Data Visualization).csproj.CopyComplete
+C:\Users\nkjho\Desktop\ADONet(Data Visualization)\obj\Debug\net6.0\ADONet(Data Visualization).dll
+C:\Users\nkjho\Desktop\ADONet(Data Visualization)\obj\Debug\net6.0\refint\ADONet(Data Visualization).dll
+C:\Users\nkjho\Desktop\ADONet(Data Visualization)\obj\Debug\net6.0\ADONet(Data Visualization).pdb
+C:\Users\nkjho\Desktop\ADONet(Data Visualization)\obj\Debug\net6.0\ADONet(Data Visualization).genruntimeconfig.cache
+C:\Users\nkjho\Desktop\ADONet(Data Visualization)\obj\Debug\net6.0\ref\ADONet(Data Visualization).dll
