@@ -19,6 +19,8 @@ namespace EntityFrameworkExample
          public string Username{get; set;}
          public string Password{get; set;}
 
+         public List<CourseEnrollment> UsersCourses{get; set;}
+
          
     }
 }

@@ -70,9 +70,6 @@ else{
 
 
 
-
-
-
 User user2=new User();
 User user3=new User();
 
@@ -138,6 +135,63 @@ else{
 
 }
 
+context.SaveChanges();
+
+Console.WriteLine("Does Admin want to set a teacher in a Course? If Yes press 1 otherwise press 0!");
+int assignTeacher=int.Parse(Console.ReadLine());
+if(assignTeacher==1){
+    Console.WriteLine("Please enter Course Id:");
+      int s=int.Parse(Console.ReadLine());
+      Console.WriteLine("Enter Course Name:");
+      string name=Console.ReadLine();
+     //Course course1=context.Courses.Where(x => x.Id == s).FirstOrDefault();
+     //Course course1=new Course();
+      bool f = context.Courses.Where(x => x.Id == s && x.CourseName==name).Any();
+
+      if(f){
+      Console.WriteLine("Course exists in the current context.Now you can assign the teacher!");
+      Console.WriteLine("Enter Teacher's Id:");
+    int x1=int.Parse(Console.ReadLine());
+    Console.WriteLine("Enter Teacher's name:");
+    string x2=Console.ReadLine();
+    bool f1 = context.Users.Where(x => x.Id == x1 && x.Name==x2).Any();
+    bool f2 = context.Users.Where(x => x.Id == x1 && x.UserType=="Teacher").Any();
+    
+    if(f1&&f2){
+        Console.Write("Teacher ");
+        Console.Write(x2);
+        Console.Write(" is successfully assigned in course ");
+        Console.WriteLine(name);
+        Course course1=context.Courses.Where(x => x.Id == s).FirstOrDefault();
+    if(course1.CoursesUsers==null){
+    course1.CoursesUsers=new List<CourseEnrollment>();
+    }
+    course1.CoursesUsers.Add(new CourseEnrollment{UserId=x1});
+    }
+    else{
+        Console.WriteLine("Please try again.Make sure you are assigning teacher from the current context or make a teacher.");
+    }
+      }
+    else{
+        Console.WriteLine("Course does not exist. Please try again or make a course!");
+    }
+      
+    
+    
+
+    
+   // Course course1=context.Courses.Where(x => x.Id == s).FirstOrDefault();
+    //if(course1.CoursesUsers==null){
+    //course1.CoursesUsers=new List<CourseEnrollment>();
+    //}
+     //Course1.CoursesUsers.Add(new CourseEnrollment{User=x1});
+
+    
+    
+}
+else{
+    Console.WriteLine("Next!");
+}
 
 context.SaveChanges();
 
