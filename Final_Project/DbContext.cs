@@ -34,6 +34,7 @@ namespace EntityFrameworkExample
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+           // modelBuilder.Entity<CourseSchedule>().ToTable("CourseSchedules");
             modelBuilder.Entity<CourseEnrollment>().ToTable("CourseEnrollments");
             modelBuilder.Entity<CourseEnrollment>().HasKey((x) => new {x.CourseId,x.UserId});
              base.OnModelCreating(modelBuilder);
@@ -42,5 +43,6 @@ namespace EntityFrameworkExample
         
          public DbSet<User> Users{get;set;}
          public DbSet<Course> Courses{get;set;}
+         public DbSet<CourseSchedule> CourseSchedules{get; set;}
     }
 }

@@ -16,5 +16,6 @@ namespace EntityFrameworkExample
         public string Fees{get; set;}
 
         public List<CourseEnrollment> CoursesUsers{get; set;}
+       // public List<CourseSchedule> CourseSchedules{get; set;}
     }
 }

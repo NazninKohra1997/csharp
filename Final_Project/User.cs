@@ -20,6 +20,7 @@ namespace EntityFrameworkExample
          public string Password{get; set;}
 
          public List<CourseEnrollment> UsersCourses{get; set;}
+       // public CourseSchedule CourseSchedules{get; set;}
 
          
     }
