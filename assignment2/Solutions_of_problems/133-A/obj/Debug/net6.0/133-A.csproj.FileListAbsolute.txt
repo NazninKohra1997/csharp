@@ -1,0 +1,15 @@
+C:\Users\nkjho\Desktop\133-A\bin\Debug\net6.0\133-A.exe
+C:\Users\nkjho\Desktop\133-A\bin\Debug\net6.0\133-A.deps.json
+C:\Users\nkjho\Desktop\133-A\bin\Debug\net6.0\133-A.runtimeconfig.json
+C:\Users\nkjho\Desktop\133-A\bin\Debug\net6.0\133-A.dll
+C:\Users\nkjho\Desktop\133-A\bin\Debug\net6.0\133-A.pdb
+C:\Users\nkjho\Desktop\133-A\obj\Debug\net6.0\133-A.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\133-A\obj\Debug\net6.0\133-A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\133-A\obj\Debug\net6.0\133-A.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\133-A\obj\Debug\net6.0\133-A.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\133-A\obj\Debug\net6.0\133-A.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\133-A\obj\Debug\net6.0\133-A.dll
+C:\Users\nkjho\Desktop\133-A\obj\Debug\net6.0\refint\133-A.dll
+C:\Users\nkjho\Desktop\133-A\obj\Debug\net6.0\133-A.pdb
+C:\Users\nkjho\Desktop\133-A\obj\Debug\net6.0\133-A.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\133-A\obj\Debug\net6.0\ref\133-A.dll

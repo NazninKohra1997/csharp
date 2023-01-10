@@ -1,0 +1,15 @@
+C:\Users\nkjho\Desktop\34-B\bin\Debug\net6.0\34-B.exe
+C:\Users\nkjho\Desktop\34-B\bin\Debug\net6.0\34-B.deps.json
+C:\Users\nkjho\Desktop\34-B\bin\Debug\net6.0\34-B.runtimeconfig.json
+C:\Users\nkjho\Desktop\34-B\bin\Debug\net6.0\34-B.dll
+C:\Users\nkjho\Desktop\34-B\bin\Debug\net6.0\34-B.pdb
+C:\Users\nkjho\Desktop\34-B\obj\Debug\net6.0\34-B.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\34-B\obj\Debug\net6.0\34-B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\34-B\obj\Debug\net6.0\34-B.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\34-B\obj\Debug\net6.0\34-B.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\34-B\obj\Debug\net6.0\34-B.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\34-B\obj\Debug\net6.0\34-B.dll
+C:\Users\nkjho\Desktop\34-B\obj\Debug\net6.0\refint\34-B.dll
+C:\Users\nkjho\Desktop\34-B\obj\Debug\net6.0\34-B.pdb
+C:\Users\nkjho\Desktop\34-B\obj\Debug\net6.0\34-B.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\34-B\obj\Debug\net6.0\ref\34-B.dll

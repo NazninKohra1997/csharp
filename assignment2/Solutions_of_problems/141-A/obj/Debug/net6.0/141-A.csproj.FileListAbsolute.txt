@@ -1,0 +1,15 @@
+C:\Users\nkjho\Desktop\141-A\bin\Debug\net6.0\141-A.exe
+C:\Users\nkjho\Desktop\141-A\bin\Debug\net6.0\141-A.deps.json
+C:\Users\nkjho\Desktop\141-A\bin\Debug\net6.0\141-A.runtimeconfig.json
+C:\Users\nkjho\Desktop\141-A\bin\Debug\net6.0\141-A.dll
+C:\Users\nkjho\Desktop\141-A\bin\Debug\net6.0\141-A.pdb
+C:\Users\nkjho\Desktop\141-A\obj\Debug\net6.0\141-A.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\141-A\obj\Debug\net6.0\141-A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\141-A\obj\Debug\net6.0\141-A.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\141-A\obj\Debug\net6.0\141-A.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\141-A\obj\Debug\net6.0\141-A.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\141-A\obj\Debug\net6.0\141-A.dll
+C:\Users\nkjho\Desktop\141-A\obj\Debug\net6.0\refint\141-A.dll
+C:\Users\nkjho\Desktop\141-A\obj\Debug\net6.0\141-A.pdb
+C:\Users\nkjho\Desktop\141-A\obj\Debug\net6.0\141-A.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\141-A\obj\Debug\net6.0\ref\141-A.dll

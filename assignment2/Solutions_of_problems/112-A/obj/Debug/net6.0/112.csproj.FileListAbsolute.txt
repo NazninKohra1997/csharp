@@ -1,0 +1,15 @@
+C:\Users\nkjho\Desktop\112\bin\Debug\net6.0\112.exe
+C:\Users\nkjho\Desktop\112\bin\Debug\net6.0\112.deps.json
+C:\Users\nkjho\Desktop\112\bin\Debug\net6.0\112.runtimeconfig.json
+C:\Users\nkjho\Desktop\112\bin\Debug\net6.0\112.dll
+C:\Users\nkjho\Desktop\112\bin\Debug\net6.0\112.pdb
+C:\Users\nkjho\Desktop\112\obj\Debug\net6.0\112.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\112\obj\Debug\net6.0\112.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\112\obj\Debug\net6.0\112.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\112\obj\Debug\net6.0\112.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\112\obj\Debug\net6.0\112.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\112\obj\Debug\net6.0\112.dll
+C:\Users\nkjho\Desktop\112\obj\Debug\net6.0\refint\112.dll
+C:\Users\nkjho\Desktop\112\obj\Debug\net6.0\112.pdb
+C:\Users\nkjho\Desktop\112\obj\Debug\net6.0\112.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\112\obj\Debug\net6.0\ref\112.dll

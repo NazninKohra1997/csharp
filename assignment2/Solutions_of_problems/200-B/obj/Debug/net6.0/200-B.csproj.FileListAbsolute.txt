@@ -1,0 +1,15 @@
+C:\Users\nkjho\Desktop\200-B\bin\Debug\net6.0\200-B.exe
+C:\Users\nkjho\Desktop\200-B\bin\Debug\net6.0\200-B.deps.json
+C:\Users\nkjho\Desktop\200-B\bin\Debug\net6.0\200-B.runtimeconfig.json
+C:\Users\nkjho\Desktop\200-B\bin\Debug\net6.0\200-B.dll
+C:\Users\nkjho\Desktop\200-B\bin\Debug\net6.0\200-B.pdb
+C:\Users\nkjho\Desktop\200-B\obj\Debug\net6.0\200-B.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\200-B\obj\Debug\net6.0\200-B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\200-B\obj\Debug\net6.0\200-B.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\200-B\obj\Debug\net6.0\200-B.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\200-B\obj\Debug\net6.0\200-B.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\200-B\obj\Debug\net6.0\200-B.dll
+C:\Users\nkjho\Desktop\200-B\obj\Debug\net6.0\refint\200-B.dll
+C:\Users\nkjho\Desktop\200-B\obj\Debug\net6.0\200-B.pdb
+C:\Users\nkjho\Desktop\200-B\obj\Debug\net6.0\200-B.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\200-B\obj\Debug\net6.0\ref\200-B.dll

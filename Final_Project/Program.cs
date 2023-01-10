@@ -5,7 +5,19 @@ string st1="";
 string st2="";
 int ff=0;
 string x2="";
-int xy=50;
+int xy=12;   /*Every time when you run this code, set xy according to your last Id number from table "CourseScedule". 
+             If you dont have any data in your table,, then set the xy 0. Otherwise you will get error*/ 
+
+
+
+
+int xz=0;
+bool f11=true;
+bool f22=true;
+string x22="";
+int count2=0;
+
+
 
 
 
@@ -21,44 +33,71 @@ Console.WriteLine("Are you new here? If your answer is Yes then press 1, otherwi
 int ad=int.Parse(Console.ReadLine());
 if(ad==1){
 Console.WriteLine("Get registerd First!");
-Console.WriteLine("Enter user Type:");
+Console.WriteLine("Please do registration only if you are Admin");
+Console.WriteLine();
+Console.WriteLine("Enter user Type! For example,Admin");
+Console.WriteLine();
 user.UserType=Console.ReadLine();
 //if(user1.UserType=="Admin"){
 Console.WriteLine("Enter Name:");
 user.Name=Console.ReadLine();
+Console.WriteLine();
 Console.WriteLine("Enter UserName:");
 user.Username=Console.ReadLine();
+Console.WriteLine();
 st1=user.Username;
 Console.WriteLine("Enter Password:");
 user.Password=Console.ReadLine();
+Console.WriteLine();
 st2=user.Password;
+
+//here
 if(user.UserType=="Admin"){
     user1.UserType=user.UserType;
     user1.Name=user.Name;
     user1.Username=user.Username;
     user1.Password=user.Password;
 context.Add(user1);
+
 }
+
 else{
-    Console.WriteLine("");
+   Console.WriteLine("");
 
 }
+
 }
 
-    else{
+   else{
     Console.WriteLine(" ");
-    }
+   }
     
-    
+   
+
+  
     Console.WriteLine();
     Console.WriteLine("Login now!");
+    Console.WriteLine();
     Console.WriteLine("Enter Username:");
     users.Username=Console.ReadLine();
+    Console.WriteLine();
     Console.WriteLine("Enter password");
     users.Password=Console.ReadLine();
+    Console.WriteLine();
     
     
     List<User> Users = context.Users.ToList();
+
+    //here
+    bool flag3 = context.Users.Where(x => x.UserType == "Student" && x.Password==users.Password).Any();
+   bool flag4=context.Users.Where(x=>x.Username==users.Username && x.Password==users.Password).Any();
+   //here
+
+   //here1
+    bool flag5 = context.Users.Where(x => x.UserType == "Teacher" && x.Password==users.Password).Any();
+   bool flag6=context.Users.Where(x=>x.Username==users.Username && x.Password==users.Password).Any();
+   //here1
+
     bool flag = context.Users.Where(x => x.Username == users.Username && x.Password==users.Password).Any();
     bool flag1 = context.Users.Where(x => x.UserType == "Admin" && x.Password==users.Password).Any();
     if((flag&&flag1) || (user.UserType=="Admin" && users.Username==st1 && users.Password==st2)){
@@ -135,6 +174,7 @@ else{
 
 context.SaveChanges();
 
+Console.WriteLine();
 Console.WriteLine("Does admin want to assign a teacher in a Course? If Yes press 1 otherwise press 0!");
 int assignTeacher=int.Parse(Console.ReadLine());
 if(assignTeacher==1){
@@ -147,8 +187,10 @@ if(assignTeacher==1){
       bool f = context.Courses.Where(x => x.Id == s && x.CourseName==name).Any();
 
       if(f){
-        
+
+     Console.WriteLine(); 
       Console.WriteLine("Course exists in the current context.Now you can assign the teacher!");
+      Console.WriteLine();
       Console.WriteLine("Enter Teacher's Id:");
     int x1=int.Parse(Console.ReadLine());
     Console.WriteLine("Enter Teacher's name:");
@@ -170,46 +212,92 @@ if(assignTeacher==1){
           
             CourseSchedule courses1=new CourseSchedule();
            // CourseSchedule courses2=new CourseSchedule();
-            
+     Console.WriteLine();       
     Console.WriteLine("Please set the class schedule!");
+     Console.WriteLine();
     Console.WriteLine("Enter class starting time. For example, 7AM,8PM,10PM...");
     string o1=Console.ReadLine();
+     Console.WriteLine();
     Console.WriteLine("Enter class ending time. For example, 7AM,8PM,10PM...");
     string o2=Console.ReadLine();
+     Console.WriteLine();
     Console.WriteLine("Enter total number of classes:");
     int o3=int.Parse(Console.ReadLine());
    // int y=courses1.TotalClasses;
-   
+    
+     Console.WriteLine();
     Console.WriteLine("Enter the number of classes per week");
     int z=int.Parse(Console.ReadLine());
      string[]arr=new string[z];
-    Console.WriteLine("Enter the day of classes.For example,Sunday,Monday...");
+      Console.WriteLine();
+    Console.WriteLine("Enter the day of classes per week.For example,Sunday,Monday...");
 
     for(int i=0;i<z;i++){
        arr[i]=Console.ReadLine();
     }
    // context.Add(courses1);
 
+            
+            Console.WriteLine();
+            Console.WriteLine("Please now assign students! please insert student from database or 1st make student ,then assign otherwise you will get error!");
+            //here1
+             Console.WriteLine();
+             Console.WriteLine("Enter the number of students");
+             int q1=int.Parse(Console.ReadLine());
+             int[] arr2=new int[q1];
+             string[] arr3=new string[q1];
+             for(int i=0;i<q1;i++){
+                 Console.WriteLine();
+                Console.WriteLine("Enter Student's Id:");
+            int x11=int.Parse(Console.ReadLine());
+             arr2[i]=x11;
+             Console.WriteLine("Enter Student's name:");
+              x22=Console.ReadLine();
+               arr3[i]=x22;
+                f11 = context.Users.Where(x => x.Id == x11 && x.Name==x22).Any();
+                f22 = context.Users.Where(x => x.Id == x11 && x.UserType=="Student").Any();
 
-            Console.WriteLine("Please now assign students! please insert student from database or 1st make student ,then assign!");
+             if(f11&& f22){
+                xz=1;
+             }
+             else{
+                xz=0;
+                if(xz==0){
+                    break;
+                   // Console.WriteLine("Student doesn't exist in the current context");
+                }
+             }
+
+             }
+
+            //here1
            for(int i=0;i<o3;i++){
               xy=xy+1;
               
-             Console.WriteLine("Enter Student's Id:");
-              int x11=int.Parse(Console.ReadLine());
-             Console.WriteLine("Enter Student's name:");
-             string x22=Console.ReadLine();
-             bool f11 = context.Users.Where(x => x.Id == x11 && x.Name==x22).Any();
-             bool f22 = context.Users.Where(x => x.Id == x11 && x.UserType=="Student").Any();
+           // Console.WriteLine("Enter Student's Id:");
+            //int x11=int.Parse(Console.ReadLine());
+             //Console.WriteLine("Enter Student's name:");
+             //string x22=Console.ReadLine();
+             //bool f11 = context.Users.Where(x => x.Id == x11 && x.Name==x22).Any();
+             //bool f22 = context.Users.Where(x => x.Id == x11 && x.UserType=="Student").Any();
 
-             if(f11&&f22){
+            //if(f11&&f22){
+                if(xz==1){
+               
                courses1.Id=xy;
                 courses1.TeacherName=x2;
-               courses1.StartingDate=o1;
-               courses1.EndingDate=o2;
+               courses1.StartingTime=o1;
+               courses1.EndingTime=o2;
                courses1.TotalClasses=o3;
                courses1.NameOfCourse=name;
-                courses1.StudentName=x22;
+               courses1.StudentName=x22;
+             //here2
+                 courses1.StudentName=arr3[count2];
+                 count2++;
+                 if(count2==q1){
+                    count2=0;
+                 }
+                 //here2
                 courses1.Day=arr[count];
                    count++;
                    if(count==z){
@@ -219,10 +307,10 @@ if(assignTeacher==1){
                 
                
        // xx=1;
-        Console.Write("Student ");
-        Console.Write(x22);
-        Console.Write(" is successfully assigned in course ");
-        Console.WriteLine(name);
+       // Console.Write("Student ");
+        //Console.Write(x22);
+        //Console.Write(" is successfully assigned in course ");
+        //Console.WriteLine(name);
         //Course course1=context.Courses.Where(x => x.Id == x11).FirstOrDefault();
         
          // if(courses1.CoursesUsers==null){
@@ -232,15 +320,18 @@ if(assignTeacher==1){
     
 context.Add(courses1);
 
+  context.SaveChanges(); 
    
-    context.SaveChanges();
             }
+            //here
+            Console.WriteLine("Student successfully assigned to the courses!");
+            //here
     }
-            else{
-                Console.WriteLine("Student does not exit int the current context!");
+           else{
+               Console.WriteLine("Student does not exit int the current context!");
             }
 
-    
+     context.SaveChanges();
 
         //here
     
@@ -276,24 +367,76 @@ context.Add(courses1);
       
    
     
-   //herrrrre
-   
-   //herrrre
+  
     
     
 }
 else{
-    Console.WriteLine("Next!");
+    Console.WriteLine("Thank you!");
 }
 
 
 
-
+//hey
     }
+//hey
+
+
+   //hereeee
+  
+    else if(flag3 && flag4){
+        Console.WriteLine("Please give attendance according to your enrolled courses!");
+        Console.WriteLine();
+        Console.WriteLine("Enter your name:");
+        string n=Console.ReadLine();
+        Console.WriteLine("Enter Course Name:");
+        string c1=Console.ReadLine();
+        Console.WriteLine("Give attendance according to your class time");
+        string Time=Console.ReadLine();
+       
+        Console.WriteLine("Enter todays day");
+        string d=Console.ReadLine();
+
+         List<CourseSchedule> courseSchedules = context.CourseSchedules.ToList();
+        CourseSchedule Sc=new CourseSchedule();
+
+    //here
+
+    bool flag35=context.CourseSchedules.Where(x => x.NameOfCourse==c1 && x.Day==d).Any();
+     bool flag36=context.CourseSchedules.Where(x => x.StudentName==n && x.Day==d).Any();
+
     
+
+   
+
+
+    if(flag35 && flag36){
+       Attendance at=new Attendance();
+       at.CoursesName=c1;
+       at.StudentsName=n;
+       context.Add(at);
+       Console.WriteLine("Student successfully gave attendance.");
+    
+      
+      
+    }   
+    else{
+        Console.WriteLine("You can't give attendance. Check your iformation once again");
+    }
+}
+
+   //hereee 
+
+    
+
+    //here1
+    else if(flag5 && flag6){
+        Console.WriteLine("Please check attendance report according to your course!");
+    }
+    //here1
     
    else{
-       Console.WriteLine("Log In failed! Please ensure that you are admin Or check your username and password!");
+       Console.WriteLine("Invalid UserName and Password!");
    }
 
 context.SaveChanges();

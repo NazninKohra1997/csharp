@@ -1,0 +1,15 @@
+C:\Users\nkjho\Desktop\4-A\bin\Debug\net6.0\4-A.exe
+C:\Users\nkjho\Desktop\4-A\bin\Debug\net6.0\4-A.deps.json
+C:\Users\nkjho\Desktop\4-A\bin\Debug\net6.0\4-A.runtimeconfig.json
+C:\Users\nkjho\Desktop\4-A\bin\Debug\net6.0\4-A.dll
+C:\Users\nkjho\Desktop\4-A\bin\Debug\net6.0\4-A.pdb
+C:\Users\nkjho\Desktop\4-A\obj\Debug\net6.0\4-A.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\4-A\obj\Debug\net6.0\4-A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\4-A\obj\Debug\net6.0\4-A.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\4-A\obj\Debug\net6.0\4-A.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\4-A\obj\Debug\net6.0\4-A.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\4-A\obj\Debug\net6.0\4-A.dll
+C:\Users\nkjho\Desktop\4-A\obj\Debug\net6.0\refint\4-A.dll
+C:\Users\nkjho\Desktop\4-A\obj\Debug\net6.0\4-A.pdb
+C:\Users\nkjho\Desktop\4-A\obj\Debug\net6.0\4-A.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\4-A\obj\Debug\net6.0\ref\4-A.dll

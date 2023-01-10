@@ -1,0 +1,15 @@
+C:\Users\nkjho\Desktop\271-A\bin\Debug\net6.0\271-A.exe
+C:\Users\nkjho\Desktop\271-A\bin\Debug\net6.0\271-A.deps.json
+C:\Users\nkjho\Desktop\271-A\bin\Debug\net6.0\271-A.runtimeconfig.json
+C:\Users\nkjho\Desktop\271-A\bin\Debug\net6.0\271-A.dll
+C:\Users\nkjho\Desktop\271-A\bin\Debug\net6.0\271-A.pdb
+C:\Users\nkjho\Desktop\271-A\obj\Debug\net6.0\271-A.csproj.AssemblyReference.cache
+C:\Users\nkjho\Desktop\271-A\obj\Debug\net6.0\271-A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkjho\Desktop\271-A\obj\Debug\net6.0\271-A.AssemblyInfoInputs.cache
+C:\Users\nkjho\Desktop\271-A\obj\Debug\net6.0\271-A.AssemblyInfo.cs
+C:\Users\nkjho\Desktop\271-A\obj\Debug\net6.0\271-A.csproj.CoreCompileInputs.cache
+C:\Users\nkjho\Desktop\271-A\obj\Debug\net6.0\271-A.dll
+C:\Users\nkjho\Desktop\271-A\obj\Debug\net6.0\refint\271-A.dll
+C:\Users\nkjho\Desktop\271-A\obj\Debug\net6.0\271-A.pdb
+C:\Users\nkjho\Desktop\271-A\obj\Debug\net6.0\271-A.genruntimeconfig.cache
+C:\Users\nkjho\Desktop\271-A\obj\Debug\net6.0\ref\271-A.dll
