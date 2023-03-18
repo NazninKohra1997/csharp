@@ -1,0 +1,15 @@
+C:\Users\Jhora\source\repos\C# code example\NullableType\bin\Debug\net6.0\NullableType.exe
+C:\Users\Jhora\source\repos\C# code example\NullableType\bin\Debug\net6.0\NullableType.deps.json
+C:\Users\Jhora\source\repos\C# code example\NullableType\bin\Debug\net6.0\NullableType.runtimeconfig.json
+C:\Users\Jhora\source\repos\C# code example\NullableType\bin\Debug\net6.0\NullableType.dll
+C:\Users\Jhora\source\repos\C# code example\NullableType\bin\Debug\net6.0\NullableType.pdb
+C:\Users\Jhora\source\repos\C# code example\NullableType\obj\Debug\net6.0\NullableType.csproj.AssemblyReference.cache
+C:\Users\Jhora\source\repos\C# code example\NullableType\obj\Debug\net6.0\NullableType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhora\source\repos\C# code example\NullableType\obj\Debug\net6.0\NullableType.AssemblyInfoInputs.cache
+C:\Users\Jhora\source\repos\C# code example\NullableType\obj\Debug\net6.0\NullableType.AssemblyInfo.cs
+C:\Users\Jhora\source\repos\C# code example\NullableType\obj\Debug\net6.0\NullableType.csproj.CoreCompileInputs.cache
+C:\Users\Jhora\source\repos\C# code example\NullableType\obj\Debug\net6.0\NullableType.dll
+C:\Users\Jhora\source\repos\C# code example\NullableType\obj\Debug\net6.0\refint\NullableType.dll
+C:\Users\Jhora\source\repos\C# code example\NullableType\obj\Debug\net6.0\NullableType.pdb
+C:\Users\Jhora\source\repos\C# code example\NullableType\obj\Debug\net6.0\NullableType.genruntimeconfig.cache
+C:\Users\Jhora\source\repos\C# code example\NullableType\obj\Debug\net6.0\ref\NullableType.dll

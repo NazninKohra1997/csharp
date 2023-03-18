@@ -1,0 +1,15 @@
+C:\Users\Jhora\source\repos\C# code example\parameter_modifier\bin\Debug\net6.0\parameter_modifier.exe
+C:\Users\Jhora\source\repos\C# code example\parameter_modifier\bin\Debug\net6.0\parameter_modifier.deps.json
+C:\Users\Jhora\source\repos\C# code example\parameter_modifier\bin\Debug\net6.0\parameter_modifier.runtimeconfig.json
+C:\Users\Jhora\source\repos\C# code example\parameter_modifier\bin\Debug\net6.0\parameter_modifier.dll
+C:\Users\Jhora\source\repos\C# code example\parameter_modifier\bin\Debug\net6.0\parameter_modifier.pdb
+C:\Users\Jhora\source\repos\C# code example\parameter_modifier\obj\Debug\net6.0\parameter_modifier.csproj.AssemblyReference.cache
+C:\Users\Jhora\source\repos\C# code example\parameter_modifier\obj\Debug\net6.0\parameter_modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhora\source\repos\C# code example\parameter_modifier\obj\Debug\net6.0\parameter_modifier.AssemblyInfoInputs.cache
+C:\Users\Jhora\source\repos\C# code example\parameter_modifier\obj\Debug\net6.0\parameter_modifier.AssemblyInfo.cs
+C:\Users\Jhora\source\repos\C# code example\parameter_modifier\obj\Debug\net6.0\parameter_modifier.csproj.CoreCompileInputs.cache
+C:\Users\Jhora\source\repos\C# code example\parameter_modifier\obj\Debug\net6.0\parameter_modifier.dll
+C:\Users\Jhora\source\repos\C# code example\parameter_modifier\obj\Debug\net6.0\refint\parameter_modifier.dll
+C:\Users\Jhora\source\repos\C# code example\parameter_modifier\obj\Debug\net6.0\parameter_modifier.pdb
+C:\Users\Jhora\source\repos\C# code example\parameter_modifier\obj\Debug\net6.0\parameter_modifier.genruntimeconfig.cache
+C:\Users\Jhora\source\repos\C# code example\parameter_modifier\obj\Debug\net6.0\ref\parameter_modifier.dll

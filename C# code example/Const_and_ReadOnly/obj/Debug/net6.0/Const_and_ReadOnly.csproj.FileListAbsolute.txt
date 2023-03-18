@@ -1,0 +1,15 @@
+C:\Users\Jhora\source\repos\C# code example\Const_and_ReadOnly\bin\Debug\net6.0\Const_and_ReadOnly.exe
+C:\Users\Jhora\source\repos\C# code example\Const_and_ReadOnly\bin\Debug\net6.0\Const_and_ReadOnly.deps.json
+C:\Users\Jhora\source\repos\C# code example\Const_and_ReadOnly\bin\Debug\net6.0\Const_and_ReadOnly.runtimeconfig.json
+C:\Users\Jhora\source\repos\C# code example\Const_and_ReadOnly\bin\Debug\net6.0\Const_and_ReadOnly.dll
+C:\Users\Jhora\source\repos\C# code example\Const_and_ReadOnly\bin\Debug\net6.0\Const_and_ReadOnly.pdb
+C:\Users\Jhora\source\repos\C# code example\Const_and_ReadOnly\obj\Debug\net6.0\Const_and_ReadOnly.csproj.AssemblyReference.cache
+C:\Users\Jhora\source\repos\C# code example\Const_and_ReadOnly\obj\Debug\net6.0\Const_and_ReadOnly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhora\source\repos\C# code example\Const_and_ReadOnly\obj\Debug\net6.0\Const_and_ReadOnly.AssemblyInfoInputs.cache
+C:\Users\Jhora\source\repos\C# code example\Const_and_ReadOnly\obj\Debug\net6.0\Const_and_ReadOnly.AssemblyInfo.cs
+C:\Users\Jhora\source\repos\C# code example\Const_and_ReadOnly\obj\Debug\net6.0\Const_and_ReadOnly.csproj.CoreCompileInputs.cache
+C:\Users\Jhora\source\repos\C# code example\Const_and_ReadOnly\obj\Debug\net6.0\Const_and_ReadOnly.dll
+C:\Users\Jhora\source\repos\C# code example\Const_and_ReadOnly\obj\Debug\net6.0\refint\Const_and_ReadOnly.dll
+C:\Users\Jhora\source\repos\C# code example\Const_and_ReadOnly\obj\Debug\net6.0\Const_and_ReadOnly.pdb
+C:\Users\Jhora\source\repos\C# code example\Const_and_ReadOnly\obj\Debug\net6.0\Const_and_ReadOnly.genruntimeconfig.cache
+C:\Users\Jhora\source\repos\C# code example\Const_and_ReadOnly\obj\Debug\net6.0\ref\Const_and_ReadOnly.dll

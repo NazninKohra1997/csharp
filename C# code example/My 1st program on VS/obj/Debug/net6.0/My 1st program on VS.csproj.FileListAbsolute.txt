@@ -1,0 +1,15 @@
+C:\Users\Jhora\source\repos\C# code example\My 1st program on VS\bin\Debug\net6.0\My 1st program on VS.exe
+C:\Users\Jhora\source\repos\C# code example\My 1st program on VS\bin\Debug\net6.0\My 1st program on VS.deps.json
+C:\Users\Jhora\source\repos\C# code example\My 1st program on VS\bin\Debug\net6.0\My 1st program on VS.runtimeconfig.json
+C:\Users\Jhora\source\repos\C# code example\My 1st program on VS\bin\Debug\net6.0\My 1st program on VS.dll
+C:\Users\Jhora\source\repos\C# code example\My 1st program on VS\bin\Debug\net6.0\My 1st program on VS.pdb
+C:\Users\Jhora\source\repos\C# code example\My 1st program on VS\obj\Debug\net6.0\My 1st program on VS.csproj.AssemblyReference.cache
+C:\Users\Jhora\source\repos\C# code example\My 1st program on VS\obj\Debug\net6.0\My 1st program on VS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhora\source\repos\C# code example\My 1st program on VS\obj\Debug\net6.0\My 1st program on VS.AssemblyInfoInputs.cache
+C:\Users\Jhora\source\repos\C# code example\My 1st program on VS\obj\Debug\net6.0\My 1st program on VS.AssemblyInfo.cs
+C:\Users\Jhora\source\repos\C# code example\My 1st program on VS\obj\Debug\net6.0\My 1st program on VS.csproj.CoreCompileInputs.cache
+C:\Users\Jhora\source\repos\C# code example\My 1st program on VS\obj\Debug\net6.0\My 1st program on VS.dll
+C:\Users\Jhora\source\repos\C# code example\My 1st program on VS\obj\Debug\net6.0\refint\My 1st program on VS.dll
+C:\Users\Jhora\source\repos\C# code example\My 1st program on VS\obj\Debug\net6.0\My 1st program on VS.pdb
+C:\Users\Jhora\source\repos\C# code example\My 1st program on VS\obj\Debug\net6.0\My 1st program on VS.genruntimeconfig.cache
+C:\Users\Jhora\source\repos\C# code example\My 1st program on VS\obj\Debug\net6.0\ref\My 1st program on VS.dll

@@ -1,0 +1,15 @@
+C:\Users\Jhora\source\repos\C# code example\DateTime\bin\Debug\net6.0\DateTime.exe
+C:\Users\Jhora\source\repos\C# code example\DateTime\bin\Debug\net6.0\DateTime.deps.json
+C:\Users\Jhora\source\repos\C# code example\DateTime\bin\Debug\net6.0\DateTime.runtimeconfig.json
+C:\Users\Jhora\source\repos\C# code example\DateTime\bin\Debug\net6.0\DateTime.dll
+C:\Users\Jhora\source\repos\C# code example\DateTime\bin\Debug\net6.0\DateTime.pdb
+C:\Users\Jhora\source\repos\C# code example\DateTime\obj\Debug\net6.0\DateTime.csproj.AssemblyReference.cache
+C:\Users\Jhora\source\repos\C# code example\DateTime\obj\Debug\net6.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhora\source\repos\C# code example\DateTime\obj\Debug\net6.0\DateTime.AssemblyInfoInputs.cache
+C:\Users\Jhora\source\repos\C# code example\DateTime\obj\Debug\net6.0\DateTime.AssemblyInfo.cs
+C:\Users\Jhora\source\repos\C# code example\DateTime\obj\Debug\net6.0\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\Jhora\source\repos\C# code example\DateTime\obj\Debug\net6.0\DateTime.dll
+C:\Users\Jhora\source\repos\C# code example\DateTime\obj\Debug\net6.0\refint\DateTime.dll
+C:\Users\Jhora\source\repos\C# code example\DateTime\obj\Debug\net6.0\DateTime.pdb
+C:\Users\Jhora\source\repos\C# code example\DateTime\obj\Debug\net6.0\DateTime.genruntimeconfig.cache
+C:\Users\Jhora\source\repos\C# code example\DateTime\obj\Debug\net6.0\ref\DateTime.dll

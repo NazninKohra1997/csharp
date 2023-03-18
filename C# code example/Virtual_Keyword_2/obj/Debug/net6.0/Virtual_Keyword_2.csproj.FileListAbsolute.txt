@@ -1,0 +1,15 @@
+C:\Users\Jhora\source\repos\C# code example\Virtual_Keyword_2\bin\Debug\net6.0\Virtual_Keyword_2.exe
+C:\Users\Jhora\source\repos\C# code example\Virtual_Keyword_2\bin\Debug\net6.0\Virtual_Keyword_2.deps.json
+C:\Users\Jhora\source\repos\C# code example\Virtual_Keyword_2\bin\Debug\net6.0\Virtual_Keyword_2.runtimeconfig.json
+C:\Users\Jhora\source\repos\C# code example\Virtual_Keyword_2\bin\Debug\net6.0\Virtual_Keyword_2.dll
+C:\Users\Jhora\source\repos\C# code example\Virtual_Keyword_2\bin\Debug\net6.0\Virtual_Keyword_2.pdb
+C:\Users\Jhora\source\repos\C# code example\Virtual_Keyword_2\obj\Debug\net6.0\Virtual_Keyword_2.csproj.AssemblyReference.cache
+C:\Users\Jhora\source\repos\C# code example\Virtual_Keyword_2\obj\Debug\net6.0\Virtual_Keyword_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhora\source\repos\C# code example\Virtual_Keyword_2\obj\Debug\net6.0\Virtual_Keyword_2.AssemblyInfoInputs.cache
+C:\Users\Jhora\source\repos\C# code example\Virtual_Keyword_2\obj\Debug\net6.0\Virtual_Keyword_2.AssemblyInfo.cs
+C:\Users\Jhora\source\repos\C# code example\Virtual_Keyword_2\obj\Debug\net6.0\Virtual_Keyword_2.csproj.CoreCompileInputs.cache
+C:\Users\Jhora\source\repos\C# code example\Virtual_Keyword_2\obj\Debug\net6.0\Virtual_Keyword_2.dll
+C:\Users\Jhora\source\repos\C# code example\Virtual_Keyword_2\obj\Debug\net6.0\refint\Virtual_Keyword_2.dll
+C:\Users\Jhora\source\repos\C# code example\Virtual_Keyword_2\obj\Debug\net6.0\Virtual_Keyword_2.pdb
+C:\Users\Jhora\source\repos\C# code example\Virtual_Keyword_2\obj\Debug\net6.0\Virtual_Keyword_2.genruntimeconfig.cache
+C:\Users\Jhora\source\repos\C# code example\Virtual_Keyword_2\obj\Debug\net6.0\ref\Virtual_Keyword_2.dll
