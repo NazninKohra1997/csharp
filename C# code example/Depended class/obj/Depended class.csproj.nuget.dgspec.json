@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jhora\\source\\repos\\C# code example\\Depended class\\Depended class.csproj": {}
+    "C:\\Users\\Jhora\\Desktop\\My_codes\\csharp\\C# code example\\Depended class\\Depended class.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jhora\\source\\repos\\C# code example\\Depended class\\Depended class.csproj": {
+    "C:\\Users\\Jhora\\Desktop\\My_codes\\csharp\\C# code example\\Depended class\\Depended class.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jhora\\source\\repos\\C# code example\\Depended class\\Depended class.csproj",
+        "projectUniqueName": "C:\\Users\\Jhora\\Desktop\\My_codes\\csharp\\C# code example\\Depended class\\Depended class.csproj",
         "projectName": "Depended class",
-        "projectPath": "C:\\Users\\Jhora\\source\\repos\\C# code example\\Depended class\\Depended class.csproj",
+        "projectPath": "C:\\Users\\Jhora\\Desktop\\My_codes\\csharp\\C# code example\\Depended class\\Depended class.csproj",
         "packagesPath": "C:\\Users\\Jhora\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jhora\\source\\repos\\C# code example\\Depended class\\obj\\",
+        "outputPath": "C:\\Users\\Jhora\\Desktop\\My_codes\\csharp\\C# code example\\Depended class\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jhora\\AppData\\Roaming\\NuGet\\NuGet.Config",

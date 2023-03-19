@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jhora\\source\\repos\\C# code example\\Enum\\Enum.csproj": {}
+    "C:\\Users\\Jhora\\Desktop\\My_codes\\csharp\\C# code example\\Enum\\Enum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jhora\\source\\repos\\C# code example\\Enum\\Enum.csproj": {
+    "C:\\Users\\Jhora\\Desktop\\My_codes\\csharp\\C# code example\\Enum\\Enum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jhora\\source\\repos\\C# code example\\Enum\\Enum.csproj",
+        "projectUniqueName": "C:\\Users\\Jhora\\Desktop\\My_codes\\csharp\\C# code example\\Enum\\Enum.csproj",
         "projectName": "Enum",
-        "projectPath": "C:\\Users\\Jhora\\source\\repos\\C# code example\\Enum\\Enum.csproj",
+        "projectPath": "C:\\Users\\Jhora\\Desktop\\My_codes\\csharp\\C# code example\\Enum\\Enum.csproj",
         "packagesPath": "C:\\Users\\Jhora\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jhora\\source\\repos\\C# code example\\Enum\\obj\\",
+        "outputPath": "C:\\Users\\Jhora\\Desktop\\My_codes\\csharp\\C# code example\\Enum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jhora\\AppData\\Roaming\\NuGet\\NuGet.Config",
