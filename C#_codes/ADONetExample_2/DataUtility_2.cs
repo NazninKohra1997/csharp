@@ -26,6 +26,9 @@ namespace ADONetExample_2
 
             cmd.ExecuteNonQuery();
 
+            connection.Close();
+            cmd.Dispose();
+
         }
     }
 }
